@@ -122,13 +122,13 @@ functiona */
 // - 99% of developers have no idea how it works and theregore fail interviews
 
 
-const obj = {
-    num: 3
-}
-console.log(obj.num);
-console.log(obj.hasOwnProperty(num)); // Where's this method?
+// const obj = {
+//     num: 3
+// }
+// console.log(obj.num);
+// console.log(obj.hasOwnProperty(num)); // Where's this method?
 
-console.log(Object.prototype); // {hasOwnPrototype: Function}
+// console.log(Object.prototype); // {hasOwnPrototype: Function}
 
 
 
