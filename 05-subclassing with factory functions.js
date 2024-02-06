@@ -85,7 +85,6 @@
 //     this.accountBalance++;
 // };
 
-
 // const paidUser1 = new paidUserCreator("Alyssa", 8, 25);
 
 // paidUser1.increaseBalance()
