@@ -1,6 +1,6 @@
 // ======== this keyword Scoping issues ======== //
 
-/* What if we want to organize our code inside one of our 
+/* What if we want to organize our code inside one of our
 shared function - perhaps by defining a new inner
 functiona */
 
@@ -41,8 +41,7 @@ functiona */
 // UserCreator.prototype.increment = function () {
 //     const add1 = () => { this.score++ }
 //     add1()
-// };ncrement());
-// console.log(user1);
+// }
 
 // UserCreator.prototype.login = function () {
 //     console.log("login");
